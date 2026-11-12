@@ -1,182 +1,126 @@
 <div align="center">
 
-# 🌌 Haistellar
+<a href="https://haistellar.com">
+  <img src="https://haistellar.com/assets/images/logo_v2.png" alt="Haistellar Logo" width="108" height="108" style="border-radius: 24px;" />
+</a>
 
-### *Space for Better Life — AI-Powered Products, Low-Latency Systems & Hybrid Cloud-Edge Infrastructure*
+# Haistellar
 
-[![Official Website](https://img.shields.io/badge/Website-haistellar.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haistellar.com)
-[![Developer & Resume](https://img.shields.io/badge/About_Developer_%26_Resume-haistellar.com%2Fdeveloper-38bdf8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://haistellar.com/developer)
-[![Stellar iOS](https://img.shields.io/badge/App_Store-Stellar_iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/stellar-ai-life-companions/id6768465620)
-[![Stellar Android](https://img.shields.io/badge/Google_Play-Stellar_Android-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.haistellar.stellar)
+### *Make Your Life Fabulously Stellar.*
+
+*From personalized health tracking to seamless organization and language mastery, Haistellar presents you with products for your everyday life and work that simplify, optimize, and inspire.*
+
+[![Website](https://img.shields.io/badge/Website-haistellar.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haistellar.com)
+[![About Developer & Resume](https://img.shields.io/badge/About_Developer_%26_Resume-haistellar.com%2Fdeveloper-38bdf8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://haistellar.com/developer)
 
 </div>
 
 ---
 
-## 👋 Welcome — For Customers, Recruiters & Hiring Managers
+## 👋 About Haistellar
 
-Welcome to **Haistellar** (`haistellar-public`), the public showcase and architectural overview of the Haistellar ecosystem.
+**Haistellar** builds thoughtfully designed mobile apps, business tools, and desktop software that make everyday life and work simpler, smarter, and more enjoyable.
 
-**Haistellar** is a full-stack product studio and distributed AI platform created by **Hee Bae** (*Software Engineer & AI Researcher*). From consumer mobile apps on the iOS App Store and Google Play Store to B2B RAG customer support engines, low-latency WebRTC security matrices, and kernel-level Windows 11 desktop utilities, every product in the Haistellar ecosystem is engineered end-to-end for production reliability, ultra-low latency, and cost-efficient AI inference.
-
-- 🌐 **Official Website & Product Portal:** [https://haistellar.com](https://haistellar.com)
-- 👨‍💻 **About the Developer & Interactive Resume:** [https://haistellar.com/developer](https://haistellar.com/developer)
-- 📬 **Contact:** [hrak109@gmail.com](mailto:hrak109@gmail.com) · [haistellar.products@gmail.com](mailto:haistellar.products@gmail.com)
+> ✨ **What does `POWERED BY HAISTELLAR AI` mean?**  
+> Products marked with **`POWERED BY HAISTELLAR AI`** are driven directly by proprietary AI infrastructure and custom-built machine learning and language models created by Haistellar.
 
 ---
 
-## 🚀 Product Portfolio
+## 🚀 Products
 
-### 1. 🌟 [Stellar](https://haistellar.com/products/stellar) — AI Lifestyle Companion & Personal Assistant *(iOS & Android)*
-> **Live on the [Apple App Store](https://apps.apple.com/us/app/stellar-ai-life-companions/id6768465620) & [Google Play Store](https://play.google.com/store/apps/details?id=com.haistellar.stellar)**
+| Product | Description | Platform | Links |
+| :--- | :--- | :--- | :--- |
+| **Stellar** | AI lifestyle companion & personal assistant (`Powered by Haistellar AI`) | iOS & Android | [Product Page](https://haistellar.com/products/stellar) · [App Store](https://apps.apple.com/us/app/stellar-ai-life-companions/id6768465620) · [Google Play](https://play.google.com/store/apps/details?id=com.haistellar.stellar) |
+| **Trady** | Stock market dip intelligence via **MacroCross Net** (`Powered by Haistellar AI`) | iOS & Android | *In Development* |
+| **Luminai** | Automated AI customer support & custom knowledge base (`Powered by Haistellar AI`) | Web & WordPress | [Product Page](https://haistellar.com/products/luminai) |
+| **Glidify** | Apple Magic Trackpad kinetic glide scrolling for Windows | Windows 11 | [GitHub](https://github.com/hrak109/glidify) |
+| **Aura** | Low-latency WebRTC home security streaming matrix for Wyze cameras | Windows | [Product Page](https://haistellar.com/products/aura) · [GitHub](https://github.com/hrak109/aura) |
 
-**Stellar** is a cross-platform mobile application (React Native / Expo / TypeScript) featuring 10 specialized AI companions that integrate conversational intelligence directly with structured personal productivity, health, and security tools:
+<br>
 
-- **🏋️ AI Fitness Coach & Workout Tracker:** Log workouts through natural conversation or structured tracking with AI-estimated energy expenditure and activity analytics.
-- **🥗 Smart Nutritionist & Calorie Tracker:** Describe meals in plain language to automatically calculate and log daily calories, macros, and nutritional goals.
-- **🗣️ Multilingual Language Tutor:** Practice English, Korean, and more through natural chat with real-time grammar corrections and contextual phrasing tips.
-- **🔐 Zero-Knowledge Security Vault:** Client-side **AES-256** password manager (derived via **PBKDF2** with 10,000 iterations) unlocked with device biometrics (Face ID / Touch ID) so plaintext credentials never leave the user's device.
-- **📅 Personal Assistant, Diary, Notes & Scripture Guide:** Integrated calendar & reminder scheduling, rich personal diaries, quick-capture notes, Bible study companion with verse bookmarking, and real-time voice-to-text transcription.
+### 1. <img src="https://haistellar.com/assets/images/logo_v2.png" alt="Stellar Logo" width="28" height="28" align="absmiddle" style="border-radius: 6px;" /> [Stellar](https://haistellar.com/products/stellar) — *Elevate Your Life with Stellar*
+`POWERED BY HAISTELLAR AI` · `iOS` · `Android`
 
----
+**The ultimate AI lifestyle companion.** Track your workouts and calories with ease, and master new languages through natural conversation. Chat with specialized Stellar friends who each have unique skills to help you organize your day, boost your lifestyle, and have fun:
 
-### 2. 💬 [Luminai](https://haistellar.com/products/luminai) — Automated B2B AI Customer Support & RAG Engine
-> **Product Page:** [https://haistellar.com/products/luminai](https://haistellar.com/products/luminai)
-
-**Luminai** is a context-aware, embeddable AI customer support platform built for businesses and WordPress websites:
-
-- **Custom Knowledge Base & RAG Pipeline:** Businesses upload domain documents, FAQs, and operational policies; Luminai retrieves relevant context via vector embeddings to answer customer inquiries 24/7 with human-like accuracy.
-- **WordPress & Elementor Native Plugin:** Drop-in PHP/JS widget and admin dashboard allowing one-click installation, live prompt customization, and real-time support automation.
-- **Multi-Tenant Isolation & High Concurrency:** Backed by dedicated FastAPI microservices, Redis caching, and asynchronous Kafka event queues to handle high-volume concurrent customer sessions without latency spikes.
-
----
-
-### 3. 📹 [Aura](https://haistellar.com/products/aura) — Low-Latency WebRTC Home Security Streaming Matrix
-> **Product Page:** [https://haistellar.com/products/aura](https://haistellar.com/products/aura) · **Open Source Repo:** [github.com/hrak109/aura](https://github.com/hrak109/aura)
-
-**Aura** is a glassmorphic, bare-metal home security streaming matrix for **Wyze cameras** on Windows:
-
-- **Sub-Second P2P WebRTC Feeds:** Bridges Wyze cloud camera discovery with the native `go2rtc` streaming engine to deliver ultra-low-latency peer-to-peer WebRTC streams across local network devices.
-- **Interactive Matrix Dashboard:** Drag-and-drop camera grid reordering, direct corner-drag column span resizing (`1`–`5` columns) with automatic HD/SD stream switching, frozen-stream watchdog, PC sleep/wake auto-recovery, and dynamic accent themes (*Emerald*, *Cyan*, *Violet*, *Amber*).
-- **Native Windows GUI Control Panel & Standalone `.exe`:** Packaged via PyInstaller into a single portable `Aura.exe` featuring a dark-themed Tkinter control panel, live color-coded system logs, configurable auto-restart intervals, and a plug-and-play web Setup Wizard.
+* **🏋️ AI Fitness Coach:** Log your workouts effortlessly and get real-time feedback with AI-estimated energy expenditure for every session.
+* **🥗 Smart Nutritionist:** Track your calories and macros simply by describing your meals—Stellar handles the math so you can focus on your goals.
+* **🗣️ Language Tutor:** Master a new language naturally just by chatting, with instant, friendly grammar corrections and context tips as you converse.
+* **📅 Personal Assistant & Diary Friend:** Take complete control of your day with an integrated calendar, customizable personal diaries, and quick-capture notes.
+* **📖 Bible Study Guide:** Deepen your faith with personalized scripture insights and spiritual companionship.
+* **🔐 Security Vault:** Manage your passwords securely alongside your daily logs with zero-knowledge client-side AES-256 encryption and device biometrics (Face ID / Touch ID).
+* **💬 Casual Bestie:** Just want to chat? Your Stellar bestie is ready for any topic, 24/7.
 
 ---
 
-### 4. 🖱️ Glidify — Apple Magic Trackpad Kinetic Glide for Windows 11
-> **Open Source Repo:** [github.com/hrak109/glidify](https://github.com/hrak109/glidify)
+### 2. 📈 Trady — *Confident Stock Market Dip Detection*
+`POWERED BY HAISTELLAR AI` · `iOS` · `Android` · `In Development`
 
-**Glidify** brings authentic **macOS / Apple Magic Trackpad inertial glide scrolling** to Windows 11:
+**An upcoming mobile app for iOS and Android powered by Haistellar's proprietary `MacroCross Net` ML model to identify high-confidence dips in the stock market:**
 
-- **Viscous Exponential Decay Physics (`appleGlide`):** Transforms notched mouse wheels and rigid Windows precision touchpads into silky-smooth, multi-page kinetic glides with adaptive flick acceleration, spring/cubic easing curves, and a touchpad jitter deadzone filter.
-- **Zero-Lag Win32 Kernel Input Hook (`WH_MOUSE_LL`):** Engineered in 64-bit Win32/Rust & Python with immediate sub-microsecond bypass for mouse movement, 1ms multimedia timer precision (`timeBeginPeriod(1)`), 200Hz–240Hz micro-step `SendInput` dispatch, and sub-delta accumulation.
-- **Native Fluent Dark GUI & Auto-Signed Standalone `.exe`:** Features a live interactive scroll test playground, real-time telemetry counters, automatic foreground game/CAD blacklist detection, modifier key passthrough (`Ctrl` zoom, `Alt` boost), and automated Authenticode digital code signing.
-
----
-
-## 🏗️ Haistellar Cloud & Hybrid Edge Infrastructure
-
-Haistellar runs on a **hybrid cloud-and-edge microservice architecture** designed to deliver high availability while **reducing LLM inference costs by ~80%** compared to pure cloud API deployments.
-
-```mermaid
-flowchart TB
-    subgraph Clients["📱 Client Applications"]
-        Mobile["Stellar Mobile App<br/>(iOS & Android — React Native / Expo)"]
-        WebPortal["Haistellar Web & Admin Console<br/>(React 19 / TypeScript / Vite)"]
-        WPWidget["Luminai WordPress Plugin<br/>(Embeddable Customer Chat Widget)"]
-    end
-
-    subgraph Cloud["☁️ AWS Cloud Production Stack (Docker Compose)"]
-        Gateway["Nginx Reverse Proxy & SSL Gateway (:443)"]
-        StellarAPI["Stellar FastAPI Service (:8002)"]
-        LuminaiAPI["Luminai FastAPI Service (:8000)"]
-        WebAPI["Admin & Routing Web API (:8003)"]
-        Kafka["Apache Kafka Event Broker (KRaft :9092)"]
-        Redis["Redis State & Heartbeat Store (:6379)"]
-        PGStellar[("PostgreSQL 15<br/>(Stellar DB)")]
-        PGLuminai[("PostgreSQL 15<br/>(Luminai DB)")]
-        AnswerConsumer["Kafka Answer & Reminder Workers"]
-        CloudWorker["Cloud LLM Worker<br/>(Multi-Tier Fallback Cascades)"]
-    end
-
-    subgraph Edge["⚡ Distributed GPU Edge Compute Nodes"]
-        vLLMNode["Local / Edge vLLM GPU Worker<br/>(Fine-Tuned Gemma + Dynamic LoRA Personas)"]
-        OllamaNode["Local / HPC Slurm Ollama GPU Worker<br/>(RAG + Context Engine via Autossh Tunnel)"]
-    end
-
-    Mobile & WebPortal & WPWidget -->|HTTPS / REST| Gateway
-    Gateway --> StellarAPI & LuminaiAPI & WebAPI
-    StellarAPI --> PGStellar & Redis & Kafka
-    LuminaiAPI --> PGLuminai & Redis & Kafka
-    WebAPI --> Redis & Kafka
-    Kafka --> AnswerConsumer
-    AnswerConsumer --> PGStellar & PGLuminai
-    Kafka -->|Consumer Group Routing| CloudWorker
-    Kafka <==>|Encrypted Autossh Tunnel| vLLMNode & OllamaNode
-```
-
-### Key Architectural Highlights
-
-1. **Event-Driven Asynchronous AI Broker (`haistellar-service` & `haistellar-edge`):**
-   - API services (`stellar-api`, `luminai-api`, `web-api`) publish structured inference tasks to partitioned **Apache Kafka** topics (`questions-stellar`, `questions-luminai`, `questions-private`, `answers`).
-   - Dedicated `answer-consumer` and `reminder-worker` services persist completed AI responses and dispatch scheduled push notifications asynchronously.
-2. **Hybrid Cloud-Edge LLM Routing & Multi-Tier Cascades:**
-   - **Edge GPU Compute (`vLLM` & `Ollama`):** Local workstation GPUs and HPC cluster nodes (via Slurm + `autossh` persistent tunnels) consume directly from Kafka to run open-weight models (**Gemma**, **Llama**) with **RAG** and **dynamic LoRA persona adapters** at near-zero marginal cost.
-   - **Resilient Cloud Fallback Cascades:** When edge nodes are offline or under heavy load, the system dynamically routes requests across configurable **Light**, **Medium**, and **Heavy** cloud cascades (Groq LPU & Google AI models) with automatic failover.
-3. **Live Control Plane & Observability (`haistellar-web`):**
-   - Real-time React Admin Console visualizing live health across all 5 infrastructure layers (Gateway → Core APIs → Message Brokers → Persistence Nodes → Edge Compute Workers).
-   - Instant hot-swapping of global routing modes (`CLOUD_ONLY`, `LOCAL_VLLM_PRIMARY`, `LOCAL_OLLAMA_PRIMARY`, etc.), per-persona/per-language (`EN`/`KO`) cascade mappings, RAG toggles, and LoRA persona switches without redeploying containers.
-4. **Production Engineering & Quality Assurance:**
-   - Containerized multi-network Docker Compose topology with strict per-service memory limits, automated Alembic schema migrations, zero-downtime Let's Encrypt SSL renewal, and CI/CD pipelines (GitHub Actions, Pytest, Ruff, Jest, ESLint, TypeScript).
+* **🧠 Proprietary `MacroCross Net` ML Model:** Built on Haistellar's custom machine learning architecture that analyzes cross-market and macroeconomic signals to detect high-conviction stock market dips.
+* **🎯 Actionable Dip Signals:** Cuts through market noise and short-term volatility to highlight statistically confident dip opportunities.
+* **📱 Built for Mobile Investors:** Designed for iOS and Android to deliver clear market insights, confidence scores, and timely dip alerts on the go.
 
 ---
 
-## 🛠️ Technology Stack Overview
+### 3. 💬 [Luminai](https://haistellar.com/products/luminai) — *Automate Your Support with Luminai*
+`POWERED BY HAISTELLAR AI` · `Web` · `WordPress`
 
-| Layer | Technologies |
-| :--- | :--- |
-| **AI & Machine Learning** | vLLM, Ollama, LoRA Fine-Tuning (Gemma / Llama), LangChain, RAG / Vector Embeddings, Groq API, Google Gemini / Gemma API |
-| **Backend & Distributed Systems** | Python 3.12, FastAPI, Gunicorn/Uvicorn, Apache Kafka (Confluent KRaft), Redis 7, SQLAlchemy, Alembic, PostgreSQL 15, MariaDB |
-| **Mobile & Frontend** | React Native, Expo (EAS Build / OTA), React 19, TypeScript, Vite, Tailwind CSS, HTML5 WebRTC (`go2rtc`) |
-| **Desktop & Systems** | Rust (Tauri v2), Win32 Low-Level Hooks (`WH_MOUSE_LL`, `SendInput`, `ctypes`), Tkinter Fluent UI, PyInstaller, PowerShell Authenticode |
-| **Cloud, DevOps & Testing** | AWS Lightsail / EC2, Docker & Docker Compose, Nginx, Let's Encrypt (Certbot), Slurm HPC, GitHub Actions CI/CD, Pytest, Jest |
+**The first AI chatbot that actually understands your business.** Easily upload your business information, documents, and data, and watch as Luminai uses it to answer customer questions with pinpoint accuracy, 24/7:
+
+* **📚 Custom Knowledge Base:** Easily add your business information, PDFs, and documentation so Luminai can answer customer questions with human-like accuracy.
+* **⚡ 24/7 Customer Support:** Scale your support team effortlessly—Luminai handles simultaneous customer inquiries around the clock without losing context.
+* **🔌 WordPress Native:** Designed for the web with a dedicated WordPress plugin and Elementor widget for simple, one-click integration.
+* **🧠 Human-Like Accuracy:** Uses advanced language models and context retrieval to grasp nuance, intent, and complex follow-up questions.
+
+---
+
+### 4. 🖱️ [Glidify](https://github.com/hrak109/glidify) — *Apple Magic Trackpad Kinetic Glide for Windows 11*
+`Windows 11` · `Open Source`
+
+**Brings authentic macOS / Apple Magic Trackpad inertial glide scrolling to Windows 11** for both standard mouse wheels and Windows Precision Touchpads:
+
+* **🌊 Smooth Kinetic Physics (`appleGlide`):** Transforms notched mouse wheels and standard Windows touchpads into fluid, multi-page kinetic glides with natural flick acceleration and smooth deceleration.
+* **⚡ Zero-Lag Native Engine:** Built on a lightweight 64-bit Win32 low-level input hook with high-frequency micro-step dispatch for responsive, stutter-free scrolling.
+* **🖥️ Fluent Dark UI:** Features a clean Windows 11 settings panel, live scroll playground, modifier passthrough (`Ctrl` zoom, `Alt` boost), and automatic game/CAD app bypass.
+
+---
+
+### 5. 📹 [Aura](https://haistellar.com/products/aura) — *Live Security Streaming Matrix*
+`Windows` · `Open Source`
+
+**A premium, glassmorphic, low-latency home security streaming matrix designed for Wyze cameras.** Aura bridges your cloud camera network with high-performance local WebRTC live feeds via an interactive web dashboard:
+
+* **⚡ Low-Latency Streaming:** Powered by the `go2rtc` streaming engine to deliver real-time WebRTC camera feeds directly to your browser or local devices.
+* **✨ Plug-and-Play Setup Wizard:** Interactive setup that securely handles credentials and initializes camera streams without manual configuration edits.
+* **🎨 Glassmorphic UI & Themes:** Sleek, responsive matrix interface supporting drag-and-drop grid layouts and dynamic themes (*Emerald*, *Cyan*, *Violet*, and *Amber*).
+* **🛡️ Standalone Windows App:** Packaged as a portable executable (`Aura.exe`) with hardened local loopback controls.
+
+---
+
+## 🧩 Haistellar Infrastructure Repositories
+
+Behind our AI-powered products, the Haistellar platform is organized across three core infrastructure repositories:
+
+* **`haistellar-service`** — **Cloud Backend & API Services:** Hosts the core API servers, authentication, database management, and event-driven message brokers that connect our mobile and web applications.
+* **`haistellar-edge`** — **AI & Edge Inference Engine:** Runs Haistellar's distributed GPU compute workers, custom fine-tuned language models, RAG context pipelines, and proprietary ML models such as **MacroCross Net**.
+* **`haistellar-web`** — **Web Portal & Control Console:** Powers the public [haistellar.com](https://haistellar.com) website, product pages, interactive developer portfolio, and live system management dashboard.
 
 ---
 
 ## 👨‍💻 About the Developer
 
-**Hee Bae** — *Software Engineer & AI Researcher (Toronto, Canada)*
+**Hee Bae** — *AI & Mobile Engineer | AI Researcher (Toronto, Canada)*
 
-- 🎓 **Education:**
-  - **Georgia Institute of Technology** — *M.S. in Computer Science (AI/ML Specialization)*
-  - **University of Waterloo** — *Bachelor of Computer Science (AI & Distributed Systems)*
-- 💼 **Experience Highlights:**
-  - **Founder & Lead Engineer @ Haistellar:** Architected and shipped the full Haistellar ecosystem (Stellar iOS/Android, Luminai RAG, Aura WebRTC, Glidify Windows 11, and the hybrid Kafka/vLLM/FastAPI cloud-edge platform).
-  - **Backend Engineer (AI Integration) @ Oakhill Pines:** Built RAG/LangChain business context AI chat and optimized vLLM GPU edge compute, reducing inference costs by 80%.
-  - **Software Engineer Intern @ IBM:** Modernized enterprise airline applications and optimized MongoDB query pipelines for 70% faster execution.
-  - **Android Engineer Intern @ Ecobee:** Led platform migration for 1M+ active smart-home users, shipping 40+ Android features (Alexa/Spotify integration) with 87% test coverage in Kotlin/RxJava.
-  - **Machine Learning Intern @ MindsLab:** Optimized NLP models (+70% relevance) and built Django REST APIs for vector embedding inference.
+AI & Mobile Engineer and MSCS Candidate at **Georgia Tech** (*Master of Science in Computer Science — AI/ML*, Expected Dec 2027; *Bachelor of Science in Computer Science* from the **University of Waterloo**, June 2022) specializing in distributed multi-cloud & edge GPU LLM inference, custom deep learning (**PyTorch**, **CUDA**, **QLoRA**, **RAG**), high-throughput **FastAPI/Kafka** backends, and cross-platform **iOS/Android** mobile engineering—with proven production impact across **Haistellar**, **Oakhill Pines**, **IBM**, **Ecobee**, and **MindsLab**.
 
-👉 **View Full Interactive Portfolio & Resume:** [**https://haistellar.com/developer**](https://haistellar.com/developer)
-
----
-
-## 🔗 Quick Links
-
-| Resource | Link |
-| :--- | :--- |
-| 🌐 **Haistellar Official Website** | [https://haistellar.com](https://haistellar.com) |
-| 📄 **Developer Profile & Resume** | [https://haistellar.com/developer](https://haistellar.com/developer) |
-| 📱 **Stellar Product Page** | [https://haistellar.com/products/stellar](https://haistellar.com/products/stellar) |
-| 🍎 **Stellar on Apple App Store** | [https://apps.apple.com/us/app/stellar-ai-life-companions/id6768465620](https://apps.apple.com/us/app/stellar-ai-life-companions/id6768465620) |
-| 🤖 **Stellar on Google Play** | [https://play.google.com/store/apps/details?id=com.haistellar.stellar](https://play.google.com/store/apps/details?id=com.haistellar.stellar) |
-| 💬 **Luminai Product Page** | [https://haistellar.com/products/luminai](https://haistellar.com/products/luminai) |
-| 📹 **Aura Product Page** | [https://haistellar.com/products/aura](https://haistellar.com/products/aura) |
-| 💻 **Aura Open-Source Repository** | [https://github.com/hrak109/aura](https://github.com/hrak109/aura) |
-| 🖱️ **Glidify Open-Source Repository** | [https://github.com/hrak109/glidify](https://github.com/hrak109/glidify) |
-| ✉️ **Direct Email** | [hrak109@gmail.com](mailto:hrak109@gmail.com) |
+* 📄 **Full Interactive Resume & Experience:** [haistellar.com/developer](https://haistellar.com/developer)
+* 🔗 **Links:** [LinkedIn (`linkedin.com/in/hbb109`)](https://www.linkedin.com/in/hbb109/) · [GitHub (`github.com/hrak109`)](https://github.com/hrak109)
+* ✉️ **Contact:** [hb2.sdg@gmail.com](mailto:hb2.sdg@gmail.com) · [haistellar.products@gmail.com](mailto:haistellar.products@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>© 2026 Haistellar. Engineered by Hee Bae. All Rights Reserved.</sub>
+  <sub>© 2026 Haistellar. All Rights Reserved.</sub>
 </div>
