@@ -8,7 +8,7 @@
 
 ### *Make Your Life Fabulously Stellar.*
 
-*From personalized health tracking to seamless organization and language mastery, Haistellar presents you with products for your everyday life and work that simplify, optimize, and inspire.*
+*True to our name, Haistellar builds AI-powered, life-changing products to a high, stellar standard—spanning everyday life, business solutions, and beyond.*
 
 [![Website](https://img.shields.io/badge/Website-haistellar.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haistellar.com)
 [![About Developer & Resume](https://img.shields.io/badge/About_Developer_%26_Resume-haistellar.com%2Fdeveloper-38bdf8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://haistellar.com/developer)
@@ -30,26 +30,28 @@
 
 | Product | Description | Platform | Links |
 | :--- | :--- | :--- | :--- |
-| **Stellar** | AI lifestyle companion & personal assistant (`Powered by Haistellar AI`) | iOS & Android | [Product Page](https://haistellar.com/products/stellar) · [App Store](https://apps.apple.com/us/app/stellar-ai-life-companions/id6768465620) · [Google Play](https://play.google.com/store/apps/details?id=com.haistellar.stellar) |
+| **Stellar** | **Instant Log & Share** — Diary, Workout & Calorie Tracker (`Powered by Haistellar AI`) | iOS & Android | [Product Page](https://haistellar.com/products/stellar) · [App Store](https://apps.apple.com/us/app/stellar-ai-life-companions/id6768465620) · [Google Play](https://play.google.com/store/apps/details?id=com.haistellar.stellar) |
 | **Trady** | Stock market dip intelligence via **MacroCross Net** (`Powered by Haistellar AI`) | iOS & Android | *In Development* |
 | **Luminai** | Automated AI customer support & custom knowledge base (`Powered by Haistellar AI`) | Web & WordPress | [Product Page](https://haistellar.com/products/luminai) |
-| **Glidify** | Apple Magic Trackpad kinetic glide scrolling for Windows | Windows 11 | [GitHub](https://github.com/hrak109/glidify) |
-| **Aura** | Low-latency WebRTC home security streaming matrix for Wyze cameras | Windows | [Product Page](https://haistellar.com/products/aura) · [GitHub](https://github.com/hrak109/aura) |
+| **Glidify** | Apple Magic Trackpad kinetic glide scrolling for Windows 11 | Windows 11 | [Product Page](https://haistellar.com/products/glidify) · [GitHub](https://github.com/hrak109/glidify) |
+| **Aura** | Low-latency WebRTC home security streaming matrix for Wyze cameras | Windows 11 | [Product Page](https://haistellar.com/products/aura) · [GitHub](https://github.com/hrak109/aura) |
 
 <br>
 
-### 1. <img src="https://haistellar.com/assets/images/logo_v2.png" alt="Stellar Logo" width="28" height="28" align="absmiddle" style="border-radius: 6px;" /> [Stellar](https://haistellar.com/products/stellar) — *Elevate Your Life with Stellar*
+### 1. <img src="https://haistellar.com/assets/images/logo_v2.png" alt="Stellar Logo" width="28" height="28" align="absmiddle" style="border-radius: 6px;" /> [Stellar - Instant Log & Share](https://haistellar.com/products/stellar) — *Log & Share Your Life in Seconds*
 `POWERED BY HAISTELLAR AI` · `iOS` · `Android`
 
-**The ultimate AI lifestyle companion.** Track your workouts and calories with ease, and master new languages through natural conversation. Chat with specialized Stellar friends who each have unique skills to help you organize your day, boost your lifestyle, and have fun:
+**Capture your life in seconds. Share what matters.** Record meals, workouts, diaries, notes, calendar & tasks effortlessly—store passwords securely, study Bible, practice languages, and share daily progress with friends in real time:
 
-* **🏋️ AI Fitness Coach:** Log your workouts effortlessly and get real-time feedback with AI-estimated energy expenditure for every session.
-* **🥗 Smart Nutritionist:** Track your calories and macros simply by describing your meals—Stellar handles the math so you can focus on your goals.
-* **🗣️ Language Tutor:** Master a new language naturally just by chatting, with instant, friendly grammar corrections and context tips as you converse.
-* **📅 Personal Assistant & Diary Friend:** Take complete control of your day with an integrated calendar, customizable personal diaries, and quick-capture notes.
-* **📖 Bible Study Guide:** Deepen your faith with personalized scripture insights and spiritual companionship.
-* **🔐 Security Vault:** Manage your passwords securely alongside your daily logs with zero-knowledge client-side AES-256 encryption and device biometrics (Face ID / Touch ID).
-* **💬 Casual Bestie:** Just want to chat? Your Stellar bestie is ready for any topic, 24/7.
+* **🚀 Live Spaces & Real-Time Sharing:** View your day at a glance and share daily highlights, workouts, and milestones in real time with friends and the community.
+* **🥗 Instant Calories & Meals:** Describe your meal and log calories & macros in seconds.
+* **🏋️ Workout Tracking:** Log exercises, sets, and calorie burn fast with live progress updates.
+* **📅 Calendar & Task Manager:** Organize your schedule, events, and daily to-dos effortlessly.
+* **🗣️ Natural Language Practice:** Chat naturally in a new language with instant, friendly grammar corrections and context tips.
+* **🗺️ Travel Log:** Pin places you have visited and capture memories on the map.
+* **📔 Daily Diary & Quick Notes:** Reflect on your day and capture thoughts, checklists, and ideas before they slip away.
+* **🔐 Encrypted Password Vault:** Keep passwords locked on-device with zero-knowledge AES-256 encryption and Face ID / Touch ID.
+* **📖 Bible Study:** Explore scripture insights and grow your faith every day.
 
 ---
 
@@ -76,8 +78,8 @@
 
 ---
 
-### 4. 🖱️ [Glidify](https://github.com/hrak109/glidify) — *Apple Magic Trackpad Kinetic Glide for Windows 11*
-`Windows 11` · `Open Source`
+### 4. 🖱️ [Glidify](https://haistellar.com/products/glidify) — *Apple Magic Trackpad Kinetic Glide for Windows 11*
+`Windows 11` · `Open Source` · [GitHub](https://github.com/hrak109/glidify)
 
 **Brings authentic macOS / Apple Magic Trackpad inertial glide scrolling to Windows 11** for both standard mouse wheels and Windows Precision Touchpads:
 
